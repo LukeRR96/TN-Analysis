@@ -1,6 +1,3 @@
-# GW-TN-Analysis
-This is an analysis on total nitrogen pollution reductions from the conversion of legacy septic systems with new advanced aerobic treatment units in the Stroud Creek watershed in Lee County FL
-
 # Groundwater Nitrogen Analysis Using ArcNLET and Python
 
 This project evaluates nitrogen transport from septic systems to groundwater using ArcNLET modeling and Python-based statistical analysis.
