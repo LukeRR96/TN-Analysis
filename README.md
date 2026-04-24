@@ -6,7 +6,8 @@ This project evaluates nitrogen transport from septic systems to groundwater usi
 
 Click below to launch the notebook in Binder:
 
-[Launch Binder](https://hub.bids.mybinder.org/user/lukerr96-tn-analysis-wf3tisj2/lab/tree/README.md)
+[Launch Binder](https://bids.mybinder.org/v2/gh/LukeRR96/TN-Analysis/HEAD)
+
 
 ## Components
 
