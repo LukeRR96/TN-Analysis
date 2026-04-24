@@ -2,6 +2,12 @@
 
 This project evaluates nitrogen transport from septic systems to groundwater using ArcNLET modeling and Python-based statistical analysis.
 
+## Run the Notebook
+
+Click below to launch the notebook in Binder:
+
+[Launch Binder](https://hub.bids.mybinder.org/user/lukerr96-tn-analysis-wf3tisj2/lab/tree/README.md)
+
 ## Components
 
 - ArcGIS / ArcNLET model setup
